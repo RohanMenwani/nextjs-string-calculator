@@ -20,8 +20,6 @@ export default function Home() {
     }
   };
 
-  console.log("__numbers", numbers);
-
   return (
     <div>
       <h1>String Calculator</h1>
